@@ -1,0 +1,15 @@
+[submodule "slipstream-proxy"]
+	path = slipstream-proxy
+	url = https://github.com/slipstream-ethglobal/slipstream-proxy.git
+[submodule "slipstream-sdk"]
+	path = slipstream-sdk
+	url = https://github.com/slipstream-ethglobal/slipstream-sdk.git
+[submodule "slipstream-docs"]
+	path = slipstream-docs
+	url = https://github.com/slipstream-ethglobal/slipstream-docs.git
+[submodule "slipstream-contract"]
+	path = slipstream-contract
+	url = https://github.com/slipstream-ethglobal/slipstream-contract.git
+[submodule "slipstream-relayer"]
+	path = slipstream-relayer
+	url = https://github.com/slipstream-ethglobal/slipstream-relayer.git
